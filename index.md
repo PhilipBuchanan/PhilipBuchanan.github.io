@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://philipbuchanan.github.io/](url) and ![http://mrseang.me/wp-content/uploads/2015/09/AFSE-brand-2_Page_1.pn](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
